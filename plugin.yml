@@ -1,0 +1,7 @@
+name: Asmodeus-BuildSites
+author: Toadally
+version: 1.0
+main: us.toadally.buildsites.BuildSites
+commands:
+   site: 
+      description: Main command for Build Sites
